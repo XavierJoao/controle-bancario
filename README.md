@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples de **controle bancário** desenvolvida e
 
 ### Objetivos do Projeto
 
-- Implementar conceitos de **POO** como encapsulamento, getters e setters, e a utilização de propriedades.
+- Implementar conceitos de **POO** como encapsulamento, getters e setters, e a utilização de decorador.
 - Simular operações bancárias em um sistema simples, garantindo que valores incorretos ou inválidos sejam adequadamente tratados.
 - Demonstrar boas práticas no desenvolvimento de código em Python, incluindo o uso de propriedades e validação de dados.
 
@@ -12,7 +12,6 @@ Este projeto é uma aplicação simples de **controle bancário** desenvolvida e
 
 - Criação de clientes com nome e telefone.
 - Gerenciamento de contas bancárias com operações de depósito, saque e consulta de saldo.
-- Validação para impedir operações inválidas, como saque com saldo insuficiente ou depósito de valores negativos.
 
 ### Estrutura do Projeto
 
